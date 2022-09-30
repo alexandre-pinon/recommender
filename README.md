@@ -29,5 +29,5 @@ In order to increase customers’ loyalty, the company expects to:
 >>- Suppression
 >- Démarche Passive
 >> Acceptation : minimisation de leur influence dans notre algorithme 
-
+>
 >Dans notre cas remplacement le plus approprié -> pas de perte de data, et moins de complexité par la suite.
