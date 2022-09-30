@@ -21,7 +21,7 @@ In order to increase customers’ loyalty, the company expects to:
 >- On recherche les valeurs aberrantes uniquement dans les prix.
 >- Choix d'une méthode de détection selon la distance inter-quartile, appliqué séparément par mois, puis couplé par la prise en compte des quartiles min et max des mois.
 >
->Utilisation de la méthode IQR (Inter-Quartile Range)
+>Utilisation de la méthode IQR (Inter-Quartile Range) avec 1.7
 >
 >## Traitement des valeurs aberrantes identifiées:
 >- Démarche Active
